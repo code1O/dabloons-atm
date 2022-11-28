@@ -44,10 +44,8 @@ class cajero:
                     break
                 elif opcion == 2:
                     self.retiro()
-                    break
                 elif opcion == 3:
                     self.ver()
-                    break
                 elif opcion == 4:
                     break
     def depositar(self):
